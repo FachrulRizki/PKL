@@ -1,0 +1,16 @@
+PKL NIOMIC
+
+12 Juli 2021
+Perkenalan Tentang PT NIomic dan juga prgawainya
+
+13 - 14 Juli 2021
+mulai mengerkakan berbagai tugas yang sudah di tentukan pada masing2 tugas
+	- rexy ( membuat CRUD dari google contact )
+	- fachrul ( membuat sebuah konten media pembelajaran tentang CSS Boostrap )
+	- ridho ( mendesain konten untuk instagram niomic tentang RGC dan CMYK )
+
+15 - 16 Juli 2021
+	- rexy ( membuat CRUD dari google contact <progres> )
+	- fachrul ( membuat sebuah konten media pembelajaran, cara membuat button dan memberikan 
+			warna menggunakan CSS Boostrap )
+	- ridho ( mendesain konten untuk instagram niomic tentang Web Developer dan Web Desain )

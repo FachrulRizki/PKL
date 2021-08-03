@@ -1,0 +1,72 @@
+Halo, Selamat datang di Ngoding itu mudah dan menyenangkan bersama niomic.
+Kali ini kita akan berbagi tips and trick >>> Membuat Button Dengan Bootstrap
+
+
+1. perkenalan
+
+apa itu Button?
+untuk membuat tombol baik itu di dalam form, maupun diluar form.
+ 
+2. langkah kerja
+
+ 1) berikan contoh  website yang Banyak Button Nya.
+ 2) masuk ke codingan (Tutorial Tombol Button)
+ 3) selesai.
+
+3. Penutupan
+
+ ajakan
+
+=====================================================================
+
+Judul video : Membuat Button dan memberikan warna Button dengan Bootstrap
+
+Halo Teman Teman Selamat datang di Ngoding itu Mudah dan Menyenangkan bersama..
+Niomic.
+
+{
+      M:
+Dividio kali ini kami, akan memberikan sebuah Tutorial, Seputar Framework Bootstrap Yaitu Cara membuat Button dan memberi warna button menggunakan CSS Boostrap
+
+Sebelumnya, Kita akan menjelaskan terlebih dahulu button itu apa sih ???
+Button merupakan objek yang di buat di dalam website untuk memberikan
+sebuah perintah untuk pindah ke halaman selanjutnya
+ }
+
+ {
+      G:
+    Kalian pasti ingin kan membuat sebuah website yang mempunyai fungsi
+    menarik, dimana dari 1 halaman bisa pindah ke halaman berikutnya,
+Lalu, bagaimana Sih Cara untuk membuat button menggunakan CSS Boostrap??
+ }
+
+Yuk kita mulai tutorialnya. Ikuti sampai akhir ya. 
+{
+    S:
+Jadi, langkah pertama yang dilakukan adalah :  buka text editor kalian, disini saya menggunakan vscode
+
+Ke-2 Sebelumnya Kalian harus hubungkan Kode Editor Kalian Ke Bootstrapnya,
+Jika kalian Belum Tau, Kalian Bisa Tonton Video yang sebelumnya Mengenai Framework Bootstrap,
+<Link ada di deskripsi>
+    
+    silahkan copy syntax pada layar berikut ini. setelah itu, kita masukan kelasnya dengan nama ( "btn btn-primary" )
+
+ //Saya Percepat
+    
+        Setelah itu kalian simpan. Jika kalian ingin melihat hasilnya silahkan buka foldernya dan filenya yaaa... 
+}
+
+Nah Gampang Kan..
+
+Jangan Lupa Like, Komen, Subscribe, Praktek, dan Amalkan Ya!
+
+Selamat Berlatih dan Have Fun Coding !!
+
+
+
+
+
+
+
+
+

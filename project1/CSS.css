@@ -1,0 +1,62 @@
+:root {
+    --input-padding-x: 1.5rem;
+    --input-padding-y: .75rem;
+  }
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: #d5f0f3;
+	--background-image: url("img/1.jpg");
+}
+ 
+h1{
+	color: white;
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+	font-size: 50px;
+}
+ 
+.tulisan_login{
+	text-align: center;
+	/*membuat semua huruf menjadi kapital*/
+	text-transform: uppercase;
+}
+
+.kotak_login{
+	width: 330px;
+	background: #f79233;
+	/*meletakkan form ke tengah*/
+	margin: auto;
+	padding: 85px 50px;
+	
+}
+ 
+label{
+	font-size: 14pt;
+}
+ 
+.form_login{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	padding: 8px;
+	font-size: 11pt;
+	margin-bottom: 25px;
+	box-shadow: none;
+}
+ 
+.tombol_login{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 5px;
+	padding: 12px 24px;
+}
+ 
+.link{
+	color: #232323;
+	text-decoration: none;
+	font-size: 10pt;
+}
